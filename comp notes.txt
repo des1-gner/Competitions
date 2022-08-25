@@ -1,0 +1,8 @@
+comp notes
+
+sudo apt update
+sudo apt upgrade
+sudo apt install apache2
+
+
+xommand to make windows a router
